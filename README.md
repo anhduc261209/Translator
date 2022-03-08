@@ -1,6 +1,9 @@
 # Translator
 A basic translator with GUI made with Python and Tkinter
 
+# V 1.2
+Add speak button
+
 # V 1.1
 Add more language options
 
